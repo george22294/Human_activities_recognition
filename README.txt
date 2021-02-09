@@ -3,6 +3,7 @@
 To view jupyter file follow the link: 
 https://nbviewer.jupyter.org/github/george22294/Human_activities_recognition/blob/main/Human%20activities%20recognition.ipynb
 
-Since .ipynb file was uploaded the token is not working.
+Since .ipynb file was uploaded the token is not working. Please ask me for a new one to run and get samples from github
+or download samples and load them locally.
 
 
